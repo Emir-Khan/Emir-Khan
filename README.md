@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emir-khan&show_icons=true&locale=en&layout=compact" alt="emir-khan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emir-khan&show_icons=true&locale=en" alt="emir-khan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir-khan&" alt="emir-khan" /></p>
