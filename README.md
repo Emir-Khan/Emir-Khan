@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emir-khan&label=Profile%20views&color=0e75b6&style=flat" alt="emir-khan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emir-khan" alt="emir-khan" /></a> </p>
-
 # 💫 About Me:
 🌱 I’m currently learning Node Js<br>💬 Ask me about Angular, .Net Core, Laravel & php
 
