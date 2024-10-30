@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning React<br>💬 Ask me about Angular, .Net Core, Node Js, Laravel & php
+🌱 I’m currently learning React<br>💬 Ask me about .Net Core, Angular, React, Node Js, Docker, SQL...
 
 
 ## 🌐 Socials:
